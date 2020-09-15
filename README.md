@@ -93,3 +93,14 @@ D43：tree based model - 隨機森林 (Random Forest) 介紹
 D44：tree based model - 隨機森林程式碼撰寫
 
 D45：tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+(作業為文章閱讀)
+
+D46：梯度提升機 - 程式碼撰寫 Coding 練習日
+
+D47：超參數調整與優化
+
+D48：Kaggle 競賽平台介紹
+
+D49：集成方法 : 混合泛化(Blending)
+
+D50：集成方法 : 堆疊泛化(Stacking)
