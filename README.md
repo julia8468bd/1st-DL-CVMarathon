@@ -104,3 +104,103 @@ D48：Kaggle 競賽平台介紹
 D49：集成方法 : 混合泛化(Blending)
 
 D50：集成方法 : 堆疊泛化(Stacking)
+
+D51~D53：Kaggle 第一次期中考
+
+D54：clustering 1 非監督式機器學習簡介
+
+D55：clustering 2 聚類算法
+
+D56：K-mean 觀察 : 使用輪廓分析
+
+D57：clustering 3 階層分群算法
+
+D58：階層分群法 觀察 : 使用 2D 樣版資料集
+
+D59：dimension reduction 1 降維方法-主成份分析
+
+D60：PCA 觀察 : 使用手寫辨識資料集
+
+D61：dimension reduction 2 降維方法-T-SNE
+
+D62：t-sne 觀察 : 分群與流形還原
+
+D63：深度學習簡介
+
+D64：深度學習體驗 : 模型調整與學習曲線
+
+D65：深度學習體驗 : 啟動函數與正規化
+
+D66：Keras 安裝與介紹
+
+D67：Keras Dataset
+
+D68：Keras Sequential API
+
+D69：Keras Module API
+
+D70：深度神經網路的基礎知識
+
+D71：損失函數
+
+D72：啟動函數
+
+D73：梯度下降Gradient Descent
+
+D74：Gradient Descent 數學原理
+
+D75：BackPropagation
+
+D76：優化器optimizers
+
+D77：訓練神經網路的細節與技巧 - Validation and overfit
+
+D78：訓練神經網路前的注意事項
+
+D79：訓練神經網路的細節與技巧 - Learning rate effect
+
+D80：[練習 Day] 優化器與學習率的組合與比較
+
+D81：訓練神經網路的細節與技巧 - Regularization
+
+D82：訓練神經網路的細節與技巧 - Dropout
+
+D83：訓練神經網路的細節與技巧 - Batch normalization
+
+D84：[練習 Day] 正規化/機移除/批次標準化的 組合與比較
+
+D85：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop
+
+D86：訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+
+D87：訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+
+D88：訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+
+D89：訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+
+D90：使用傳統電腦視覺與機器學習進行影像辨識
+
+D91：[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識
+
+D92：卷積神經網路 (Convolution Neural Network, CNN) 簡介
+
+D93：卷積神經網路架構細節
+
+D94：卷積神經網路 - 卷積(Convolution)層與參數調整
+
+D95：卷積神經網路 - 池化(Pooling)層與參數調整
+
+D96：Keras 中的 CNN layers
+
+D97：使用 CNN 完成 CIFAR-10 資料集
+
+D98：訓練卷積神經網路的細節與技巧 - 處理大量數據
+
+D99：訓練卷積神經網路的細節與技巧 - 處理小量數據
+
+D100：訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)
+
+D101~D103：Kaggle期末考-影像辨識
+
+Bonus 進階補充：
